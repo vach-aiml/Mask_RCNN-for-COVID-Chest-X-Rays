@@ -32,8 +32,6 @@ In the current model, data set used with X-ray images are of following types
 
 The evaluation metric considered for stage one i.e. classification is Accuracy. Test Metrics used for stage two i.e. segmentation is mean Average Precision (mAP). 
 
-Exploratory Data Analysis
-
 **Dataset** used for building the model is from a Kaggle competition – RSNA Pneumonia Detection Challenge.
 
 **Classification:**
@@ -52,6 +50,9 @@ Images used for segmentation was provided with a metadata csv file containing fo
 After the initial procession of data, convert images to .png, separating them into class wise folders.
 
 _Data augmentation_ is performed due to lack of data to increase the amount of data the model sees and trains on. Augmentation improves accuracy of model significantly.
+
+![image](https://user-images.githubusercontent.com/53993233/116294602-c7ec3f80-a7b5-11eb-97ed-9181d96df356.png)
+
 
 [capstone_poster.pdf](https://github.com/vach-aiml/Mask_RCNN-for-COVID-Chest-X-Rays/files/6386787/capstone_poster.pdf)
 
