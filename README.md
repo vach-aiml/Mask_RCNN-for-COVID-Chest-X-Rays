@@ -1,6 +1,13 @@
 # Mask_RCNN-for-COVID-Chest-X-Rays
 Detect the pneumonia (infection) in the Covid patients using Chest X Rays and also determine the severity of infection.
 
+# # Conference paper in 15th International Conference on Industrial and Information Systems 2020 (ICIIS 2020)
+
+https://ieeexplore.ieee.org/abstract/document/9342702
+
+[Conference Paper ICIIS 2020.pdf](https://github.com/vach-aiml/Mask_RCNN-for-COVID-Chest-X-Rays/files/6386938/Conference.Paper.ICIIS.2020.pdf)
+
+
 **Problem Statement**
 
 To identify pneumonia location and determine the severity of pneumonia using deep learning network on chest X-ray images
