@@ -1,7 +1,6 @@
 # Mask_RCNN-for-COVID-Chest-X-Rays
 Detect the pneumonia (infection) in the Covid patients using Chest X Rays and also determine the severity of infection.
 
-
 **Problem Statement**
 
 To identify pneumonia location and determine the severity of pneumonia using deep learning network on chest X-ray images
@@ -53,3 +52,54 @@ Images used for segmentation was provided with a metadata csv file containing fo
 After the initial procession of data, convert images to .png, separating them into class wise folders.
 
 _Data augmentation_ is performed due to lack of data to increase the amount of data the model sees and trains on. Augmentation improves accuracy of model significantly.
+
+[capstone_poster.pdf](https://github.com/vach-aiml/Mask_RCNN-for-COVID-Chest-X-Rays/files/6386787/capstone_poster.pdf)
+
+
+Narayana Darapaneni
+Director - AIML
+Great Learning/Northwestern University
+Illinois, USA
+darapaneni@gmail.com
+
+Vachaspathi Madabhushanam
+Student - AIML
+Great Learning
+Hyderabad, India
+vachaspathi1234@gmail.com
+
+Aravind Kumar Adhi
+Student - AIML
+Great Learning
+Hyderabad, India
+aravind.adhi@gmail.com
+ 
+D.Krishnaprashanth
+Student - AIML
+Great Learning
+Hyderabad, India
+prashanthdharanikota@gmail.com
+
+Shweta Ranjane
+Student - AIML
+Great Learning
+Hyderabad, India
+ranjaneshweta22@gmail.com
+
+Anvesh Reddy Paduri
+Research Assistant – AIML
+Great Learning
+Hyderabad, India
+anwesh@greatlearning.in 
+ 
+M Harichandan Reddy
+Student - AIML
+Great Learning
+Hyderabad, India
+harichandan25@gmail.com
+
+Uday Shankar Pallavajula Satya
+Student - AIML
+Great Learning
+Hyderabad, India
+Udayshankar.p@dell.com
