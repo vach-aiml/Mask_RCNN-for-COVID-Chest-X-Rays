@@ -1,7 +1,7 @@
 # Mask_RCNN-for-COVID-Chest-X-Rays
 Detect the pneumonia (infection) in the Covid patients using Chest X Rays and also determine the severity of infection.
 
-# # Conference paper in 15th International Conference on Industrial and Information Systems 2020 (ICIIS 2020)
+_**Conference paper in 15th International Conference on Industrial and Information Systems 2020 (ICIIS 2020)**_
 
 https://ieeexplore.ieee.org/abstract/document/9342702
 
